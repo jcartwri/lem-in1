@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/kitos/Документы/python_work/21school/lem-in/lem-in.h
+stdio.h
+-
+lib/printf/libft/libft.h
+/home/kitos/Документы/python_work/21school/lem-in/lib/printf/libft/libft.h
+lib/printf/libft/get_next_line.h
+/home/kitos/Документы/python_work/21school/lem-in/lib/printf/libft/get_next_line.h
+
+/home/kitos/Документы/python_work/21school/lem-in/lib/printf/libft/get_next_line.h
+libft.h
+/home/kitos/Документы/python_work/21school/lem-in/lib/printf/libft/libft.h
+
+/home/kitos/Документы/python_work/21school/lem-in/lib/printf/libft/libft.h
+unistd.h
+-
+string.h
+-
+stdlib.h
+-
+get_next_line.h
+/home/kitos/Документы/python_work/21school/lem-in/lib/printf/libft/get_next_line.h
+
+/home/kitos/Документы/python_work/21school/lem-in/search_for_ways/bfs.c
+../lem-in.h
+/home/kitos/Документы/python_work/21school/lem-in/lem-in.h
+
+/home/kitos/Документы/python_work/21school/lem-in/search_for_ways/clean_all_memory.c
+../lem-in.h
+/home/kitos/Документы/python_work/21school/lem-in/lem-in.h
+
+/home/kitos/Документы/python_work/21school/lem-in/search_for_ways/ft_creat_list_pyth.c
+../lem-in.h
+/home/kitos/Документы/python_work/21school/lem-in/lem-in.h
+
